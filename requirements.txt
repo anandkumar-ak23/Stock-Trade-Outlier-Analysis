@@ -1,0 +1,8 @@
+streamlit==1.24.0
+pandas==1.5.3
+py2neo==2021.2.3
+numpy==1.24.1
+matplotlib==3.6.0
+plotly==5.12.0
+scikit-learn==1.1.2
+seaborn==0.12.1
